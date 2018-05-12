@@ -1,0 +1,34 @@
+_repo: Mrs.-Hale-s-Receipts-for-the-Millionand-Domestic-Arts_46254
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46254-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hale, Sarah Josepha Buell
+    aliases:
+    - Hale, Sara Josepha
+    - Hale, S. J. (Sarah Josepha)
+    - Hale, Sarah Josepha
+    birthdate: 1788
+    deathdate: 1879
+    gutenberg_agent_id: '43680'
+    url: http://www.gutenberg.org/2009/agents/43680
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46254'
+  lccn: '07025625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- !lcsh 'Home economics'
+title: "Mrs. Hale's Receipts for the Million\r\nContaining Four Thousand Five Hundred\
+  \ and Forty-five Receipts, Facts, Directions, etc. in the Useful, Ornamental, and\
+  \ Domestic Arts"
+url: http://www.gutenberg.org/ebooks/46254
