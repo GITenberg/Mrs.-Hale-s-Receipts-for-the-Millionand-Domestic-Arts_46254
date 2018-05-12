@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '43680'
     url: http://www.gutenberg.org/2009/agents/43680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46254#Mrs.-Hale-s-Receipts-for-the-Millionand-Domestic-Arts
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
